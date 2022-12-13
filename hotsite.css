@@ -1,0 +1,30 @@
+body{
+background-color:#551d64 ;
+color: rgb(37, 86, 128);
+
+
+}
+h1{ color:#d29be6 ;
+    font-size: 50px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    position:relative;
+    left: 400px;
+}
+p{ font-size: 30px; 
+    color:rgb(244, 246, 245) ;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    margin: 45px;
+    
+
+}
+
+.pessoasios{
+
+    height: 190px;
+    width: 300px;
+    position: absolute; 
+    left: 50%;
+    transform: translate(-50%);
+
+}
